@@ -1,5 +1,5 @@
 # Contacts Database Manager
-# Start Datze: 2023.02.12
+# Start Date: 2023.02.12
 
 # imports
 import sqlite3
